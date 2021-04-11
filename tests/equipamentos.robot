@@ -1,13 +1,13 @@
-***Settings***
-Documentation       Cadastro de equipamentos
+#***Settings***
+#Documentation       Cadastro de equipamentos
 
-Resource            ../resources/base.robot
+#Resource            ../resources/base.robot
 
-Suite Setup         Login Session
-Suite Teardown      Finish Session
+#Suite Setup         Login Session
+#Suite Teardown      Finish Session
 
-***Test Cases***
-Novo Equipamento
-Nome Obrigatório
-Valor Obrigatório
-Equipamento Ducplicado
+#***Test Cases***
+#Novo Equipamento
+#Nome Obrigatório
+#Valor Obrigatório
+#Equipamento Ducplicado
