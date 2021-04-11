@@ -1,3 +1,4 @@
+***Settings***
 Documentation       Cadastro de equipamentos
 
 Resource            ../resources/base.robot
